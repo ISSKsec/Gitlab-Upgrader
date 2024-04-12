@@ -12,7 +12,7 @@ Simplify your GitLab upgrade experience with Gitlab-Upgrader and keep your insta
 
 ## Getting Started:
 
-1. Clone this repository: `[git clone https://github.com/your_username/gitlab-upgrader.git](https://github.com/ISSKsec/Gitlab-Upgrader.git](https://github.com/ISSKsec/Gitlab-Upgrader.git)`
+1. Clone this repository: `git clone https://github.com/your_username/gitlab-upgrader.git`
 2. Follow the instructions in the README.md file to configure and use Gitlab-Upgrader in your environment.
 
 Contributions and suggestions are welcome!
